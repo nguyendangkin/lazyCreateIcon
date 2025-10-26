@@ -1,6 +1,4 @@
-Tuyệt vời, đây là file `README.md` cho chương trình của bạn:
 
-```markdown
 # Custom Desktop Entry Creator
 
 Chương trình `custom-desktop-entry` giúp bạn tạo một shortcut (entry) trên menu ứng dụng của môi trường desktop Linux (như GNOME, KDE, XFCE, Cinnamon, v.v.) cho bất kỳ file thực thi nào, đồng thời tự động tải xuống và gán một icon tùy chỉnh từ một URL.
